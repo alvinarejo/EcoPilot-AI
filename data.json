@@ -1,0 +1,12 @@
+{
+  "time_of_day": 18,
+  "appliances": {
+    "AC": 3.5,
+    "Fan": 1.2,
+    "Fridge": 1.8,
+    "Washing Machine": 2.0,
+    "TV": 0.4,
+    "Smart Lights": 0.3,
+    "Electric Oven": 2.5
+  }
+}
