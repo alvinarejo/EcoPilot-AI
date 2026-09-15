@@ -19,9 +19,11 @@ JSON, Synthetic Data
 **1. Backend**
 cd backend
 python app.py
+
 **2. Frontend**
 cd frontend
 npm install
 npm run dev
+
 **3. Open**
 http://localhost:5173
